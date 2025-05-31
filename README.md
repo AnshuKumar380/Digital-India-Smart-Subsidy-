@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9fbb2d53-955a-43ac-858a-0c3a4c59296f)
+
 # Digital India Smart Subsidy System
 
 A Django-based Smart Subsidy Management System built for efficient distribution and tracking of government subsidies under the Digital India initiative.
@@ -94,6 +94,11 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 🔗 GitHub: AnshuKumar380
 
 ---
+![image](https://github.com/user-attachments/assets/5d4f327b-b331-4fb2-9836-e83e4c8c8321)
+![image](https://github.com/user-attachments/assets/bdd0b07f-64ec-486b-af0e-a1a67f3fb9b8)
+![image](https://github.com/user-attachments/assets/9fbb2d53-955a-43ac-858a-0c3a4c59296f)
+![image](https://github.com/user-attachments/assets/51ff07e2-1a00-4376-8d73-2123bd862415)
+
 
 
 

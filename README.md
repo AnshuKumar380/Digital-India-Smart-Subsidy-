@@ -56,3 +56,45 @@ python manage.py migrate
 ##6. Run the Server
   python manage.py runserver
 
+
+         ##Project Structure
+
+Digital-India-Smart-Subsidy-/
+├── SmartSubsidySystemDjangoFinal/
+│   ├── settings.py
+│   ├── urls.py
+│   └── ...
+├── app/
+│   ├── models.py
+│   ├── views.py
+│   └── templates/
+├── db.sqlite3
+├── manage.py
+└── README.md
+
+  📃 License
+This project is licensed under the MIT License.
+
+📄 Research Publication
+This project is supported by a research paper published in the International Journal of Creative Research Thoughts (IJCRT).
+
+🔹 Paper Title: Digital India Smart Subsidy System
+🔹 Journal: IJCRT (International Journal of Creative Research Thoughts)
+🔹 ISSN: 2320-2882
+🔹 Published In: Volume 12, Issue 1, January 2024
+🔹 DOI / Paper ID: IJCRT2401342
+🔗 Link to Full Paper: (https://ijcrt.org/papers/IJCRT2401342.pdf)
+
+
+🤝 Contribution
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+  Contact
+🔗 GitHub: AnshuKumar380
+
+---
+
+
+
+
+

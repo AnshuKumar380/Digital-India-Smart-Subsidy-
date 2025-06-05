@@ -94,9 +94,10 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 🔗 GitHub: AnshuKumar380
 
 ---
+<!-- ✅ DO THIS (no backticks, write directly in the README.md file) -->
 <img src="https://github.com/user-attachments/assets/5d4f327b-b331-4fb2-9836-e83e4c8c8321" alt="image" />
 
-<a href="https://github.com/AnshuKumar380/Digital-India-Smart-Subsidy-/blob/main/Screenshot%202025-05-31%20163233.png" target="_blank">
+<a href="https://github.com/AnshuKumar380/Digital-India-Smart-Subsidy-/blob/main/Screenshot%202025-05-31%20163233.png">
   <img src="https://github.com/user-attachments/assets/bdd0b07f-64ec-486b-af0e-a1a67f3fb9b8" alt="image" />
 </a>
 
